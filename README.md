@@ -75,11 +75,35 @@ Observe ICMP traffic.
 <br />
 
 <p>
-  <img width="1270" alt="Screenshot 2023-11-29 at 9 28 08 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/ee1d6a67-900f-47d4-bdd8-a74bc5bbfc9f">
+<img width="1123" alt="Screenshot 2023-11-29 at 9 43 44 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/3332d982-e694-4409-855e-c1bdf7121aad">
 
 </p>
 <p>
-Observe ICMP traffic.
+Initiate a perpetual ping from Windows 10 VM to Ubuntu VM.
 </p>
 <br />
 
+</p>
+<p>
+<img width="1192" alt="Screenshot 2023-11-29 at 9 56 48 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/72c53171-4b06-416d-bb3e-86ff0b9f82e1">
+
+</p>
+<br />
+
+</p>
+<p>
+Observe SSH traffic.
+</p>
+<br />
+
+</p>
+<p>
+<img width="1192" alt="Screenshot 2023-11-29 at 9 56 48 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/eb756d81-4381-4d23-bda2-408026718460">
+</p>
+<br />
+
+</p>
+<p>
+![Uploading Screenshot 2023-11-29 at 9.56.48 PM.png…]()
+</p>
+<br />
