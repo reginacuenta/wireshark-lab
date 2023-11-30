@@ -1,5 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+ <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
@@ -39,26 +38,48 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="![Uploading Screenshot 2023-11-29 at 4.20.36 PM.png…]()
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img width="1021" alt="Screenshot 2023-11-29 at 9 05 27 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/3296aa36-5d4f-4eba-9252-d3db57b95e5a">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a Windows 10 virtual machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1021" alt="Screenshot 2023-11-29 at 9 05 27 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/76e1a1bb-9da2-48d8-8e7e-4b78519af775">
+  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a Linux virtual machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1066" alt="Screenshot 2023-11-29 at 9 27 13 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/777a71c8-6983-49b2-acc7-544c535e5478">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install Wireshark in Windows 10 virtual machine.
 </p>
 <br />
+
+<p>
+  <img width="1270" alt="Screenshot 2023-11-29 at 9 28 08 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/ee1d6a67-900f-47d4-bdd8-a74bc5bbfc9f">
+
+</p>
+<p>
+Observe ICMP traffic.
+</p>
+<br />
+
+<p>
+  <img width="1270" alt="Screenshot 2023-11-29 at 9 28 08 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/ee1d6a67-900f-47d4-bdd8-a74bc5bbfc9f">
+
+</p>
+<p>
+Observe ICMP traffic.
+</p>
+<br />
+
