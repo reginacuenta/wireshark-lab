@@ -105,8 +105,20 @@ Observe SSH traffic.
 
 </p>
 <p>
+Observe DHCP traffic.
+</p>
+<br />
+
+</p>
+<p>
 <img width="1252" alt="Screenshot 2023-11-29 at 10 10 18 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/74f5d961-0cc7-4254-987d-a85d7cac1053">
 
+</p>
+<br />
+
+</p>
+<p>
+Observe DNS traffic.
 </p>
 <br />
 
@@ -116,4 +128,11 @@ Observe SSH traffic.
 
 </p>
 <br />
+
+</p>
+<p>
+Observe RDP traffic.
+</p>
+<br />
+
 
