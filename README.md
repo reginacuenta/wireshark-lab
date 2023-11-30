@@ -98,12 +98,22 @@ Observe SSH traffic.
 
 </p>
 <p>
-<img width="1192" alt="Screenshot 2023-11-29 at 9 56 48 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/eb756d81-4381-4d23-bda2-408026718460">
+ <img width="1246" alt="Screenshot 2023-11-29 at 10 03 04 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/9fe0259f-7b6a-4f93-abea-b2f9a23c6a95">
+
 </p>
 <br />
 
 </p>
 <p>
-![Uploading Screenshot 2023-11-29 at 9.56.48 PM.png…]()
+<img width="1252" alt="Screenshot 2023-11-29 at 10 10 18 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/74f5d961-0cc7-4254-987d-a85d7cac1053">
+
 </p>
 <br />
+
+</p>
+<p>
+<img width="1224" alt="Screenshot 2023-11-29 at 10 14 09 PM" src="https://github.com/reginacuenta/wireshark-lab/assets/150301999/3d2bfb2a-73a0-4081-b3ef-b084995e58a3">
+
+</p>
+<br />
+
